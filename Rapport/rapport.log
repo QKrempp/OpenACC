@@ -1,0 +1,255 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.7.20)  6 AUG 2020 19:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**rapport.tex
+(./rapport.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+)
+(./Rapport.aux
+! Undefined control sequence.
+l.30 \babel@aux
+               {french}{}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \babel@aux{f
+                 rench}{}
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 time_dgemm
+l.59 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 time_dgemm
+l.59 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     time_dgemm
+l.60 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     time_dgemm
+l.60 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 flops_dgemm
+l.61 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 flops_dgemm
+l.61 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     flops_dgemm
+l.62 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     flops_dgemm
+l.62 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 dgemm_acc_ker_omp
+l.64 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 dgemm_acc_ker_omp
+l.64 ...ices carrées\relax }{figure.caption.5}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 dgemm_acc_mkl
+l.66 ...textit {MKL})\relax }{figure.caption.6}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 dgemm_acc_mkl
+l.66 ...textit {MKL})\relax }{figure.caption.6}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 time_itg
+l.73 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 time_itg
+l.73 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     time_itg
+l.74 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     time_itg
+l.74 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 flops_itg
+l.75 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 flops_itg
+l.75 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     flops_itg
+l.76 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     flops_itg
+l.76 ... de trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 itg_acc_ker_omp
+l.78 ...des trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 itg_acc_ker_omp
+l.78 ...des trapèzes\relax }{figure.caption.7}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 time_diff
+l.85 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 time_diff
+l.85 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? 
+! Interruption.
+\@namedef #1->\expandafter \def \csname #1
+                                          \endcsname 
+l.85 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     time_diff
+l.86 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     time_diff
+l.86 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 flops_diff
+l.87 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? 
+! Undefined control sequence.
+<argument> r@fig:
+                 flops_diff
+l.87 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+? s
+OK, entering \scrollmode...
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     flops_diff
+l.88 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> r@sub@fig:
+                     flops_diff
+l.88 ... de la grille\relax }{figure.caption.8}{}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> r@fig:
+                 diff_acc_ker_omp
+l.90 ...s temporelles\relax }{figure.caption.8}{}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue

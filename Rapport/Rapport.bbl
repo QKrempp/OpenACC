@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{Wiki:cpu}
+``Processeur.'' \url{https://fr.wikipedia.org/wiki/Processeur}, 2020.
+\newblock [Online - accesssed on August 2020].
+
+\bibitem{Wiki:cuda}
+``Compute unified device architecture.''
+  \url{https://fr.wikipedia.org/wiki/Compute_Unified_Device_Architecture},
+  2020.
+\newblock [Online - accessed on August 2020].
+
+\bibitem{Wiki:coeur}
+``Microprocesseur multi-cœur.''
+  \url{https://fr.wikipedia.org/wiki/Microprocesseur_multi-cœur}, 2020.
+\newblock [Online - Accessed on August 2020].
+
+\bibitem{Wiki:flops}
+``Flops.'' \url{https://fr.wikipedia.org/wiki/FLOPS}, 2020.
+\newblock [Online - accessed on August 2020].
+
+\bibitem{Wiki:gpu}
+``Processeur graphique.''
+  \url{https://fr.wikipedia.org/wiki/Processeur_graphique}, 2020.
+\newblock [Online - accessed on August 2020].
+
+\bibitem{Wiki:paral}
+``Parallélisme.''
+  \url{https://fr.wikipedia.org/wiki/Parall%C3%A9lisme_(informatique)}, 2020.
+\newblock [Online - Accessed on August 2020].
+
+\bibitem{Wiki:pci}
+``Pci.'' \url{https://fr.wikipedia.org/wiki/PCI_(informatique)}, 2020.
+\newblock [Online - Accessed on August 2020].
+
+\bibitem{bestpract}
+``Openacc programming and best practice guides.''
+  \url{https://www.openacc.org/sites/default/files/inline-files/OpenACC_Programming_Guide_0.pdf},
+  2015.
+\newblock [Online - accessed on August 2020].
+
+\bibitem{specs}
+``The openacc programming interface.''
+  \url{https://www.openacc.org/sites/default/files/inline-images/Specification/OpenACC.3.0.pdf},
+  2019.
+\newblock [Online - accessed on August 2020].
+
+\end{thebibliography}

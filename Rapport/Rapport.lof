@@ -1,0 +1,7 @@
+\babel@toc {french}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Evolution des temps de calcul en fonction du nombre de gangs\relax }}{19}{figure.caption.7}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Etude de la multiplication généralisée de matrices carrées\relax }}{20}{figure.caption.8}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Etude de la multiplication généralisée de matrices carrées avec une implémentation optimisée (\textit {MKL})\relax }}{21}{figure.caption.9}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Etude du calcul de $\DOTSI \intop \ilimits@ _{1}^{10^6}\frac {1}{x}dx$ par la méthode des trapèzes\relax }}{24}{figure.caption.10}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Etude du calcul de différences finies pour les équations de la chaleur en deux dimensions pour 1000 itérations temporelles\relax }}{27}{figure.caption.11}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Etude du temps d'exécution du solveur de Jacobi pour différentes tailles de maillage\relax }}{31}{figure.caption.12}%

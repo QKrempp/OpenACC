@@ -1,0 +1,9 @@
+\begin{thebibliography}{1}
+
+\bibitem{specs}
+D.~Pujadas, ``The openacc programming interface.''
+  \url{https://www.openacc.org/sites/default/files/inline-images/Specification/OpenACC.3.0.pdf},
+  2019.
+\newblock [Online - accessed on August 2020].
+
+\end{thebibliography}

@@ -1,0 +1,43 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Motivations et contexte}{1}% 
+\contentsline {subsection}{\numberline {1.1}Enjeux du calcul sur GPU}{1}% 
+\contentsline {subsection}{\numberline {1.2}Gestion des gangs, workers et vecteurs}{1}% 
+\contentsline {subsection}{\numberline {1.3}Gestion de la mémoire}{2}% 
+\contentsline {subsection}{\numberline {1.4}Gestion des \textit {kernels} et de la synchronicité}{2}% 
+\contentsline {section}{\numberline {2}L'outil \textit {OpenACC}}{2}% 
+\contentsline {subsection}{\numberline {2.1}Philosophie OpenACC}{2}% 
+\contentsline {subsection}{\numberline {2.2}Compilation}{3}% 
+\contentsline {subsection}{\numberline {2.3}Profiling}{3}% 
+\contentsline {subsection}{\numberline {2.4}Remarque}{3}% 
+\contentsline {subsection}{\numberline {2.5}Etapes de l'optimisation d'un code}{4}% 
+\contentsline {section}{\numberline {3}Etude de cas académiques avec \textit {OpenACC}}{4}% 
+\contentsline {subsection}{\numberline {3.1}\textit {DGEMM}}{5}% 
+\contentsline {subsection}{\numberline {3.2}Intégration par la méthode des trapèzes}{7}% 
+\contentsline {subsection}{\numberline {3.3}Différences finies}{9}% 
+\contentsline {subsection}{\numberline {3.4}Transposition}{10}% 
+\contentsline {section}{\numberline {4}Le cas des éléments finis}{11}% 
+\contentsline {section}{\numberline {A}Directives de parallélisation \textit {OpenACC}}{11}% 
+\contentsline {subsection}{\numberline {A.1}La directive \texttt {parallel}}{11}% 
+\contentsline {subsection}{\numberline {A.2}La directive \texttt {kernels}}{12}% 
+\contentsline {subsection}{\numberline {A.3}La directive \texttt {seq}}{12}% 
+\contentsline {subsection}{\numberline {A.4}La directive \texttt {loop}}{12}% 
+\contentsline {subsection}{\numberline {A.5}La directive \texttt {routine}}{12}% 
+\contentsline {subsection}{\numberline {A.6}La directive \texttt {atomic}}{12}% 
+\contentsline {section}{\numberline {B}Les arguments \textit {OpenACC}}{13}% 
+\contentsline {subsection}{\numberline {B.1}L'argument \texttt {reduction}}{13}% 
+\contentsline {subsection}{\numberline {B.2}L'argument \texttt {private}}{13}% 
+\contentsline {subsection}{\numberline {B.3}Les arguments \texttt {gang}, \texttt {workers} et \texttt {vector}}{13}% 
+\contentsline {subsection}{\numberline {B.4}L'argument \texttt {collapse()}}{13}% 
+\contentsline {section}{\numberline {C}Gestion de la mémoire}{13}% 
+\contentsline {subsection}{\numberline {C.1}La clause \texttt {data}}{14}% 
+\contentsline {subsection}{\numberline {C.2}L'argument \texttt {copyin()}}{14}% 
+\contentsline {subsection}{\numberline {C.3}L'argument \texttt {copyout()}}{14}% 
+\contentsline {subsection}{\numberline {C.4}L'argument \texttt {copy()}}{14}% 
+\contentsline {subsection}{\numberline {C.5}L'argument \texttt {present()}}{14}% 
+\contentsline {subsection}{\numberline {C.6}L'argument \texttt {update()}}{15}% 
+\contentsline {subsection}{\numberline {C.7}Le préfixe \texttt {p-}}{15}% 
+\contentsline {subsection}{\numberline {C.8}Les structures en C++}{15}% 
+\contentsline {section}{\numberline {D}Affinage du code}{15}% 
+\contentsline {subsection}{\numberline {D.1}Gestion des gangs, workers et vecteurs}{15}% 
+\contentsline {subsection}{\numberline {D.2}Gestion des \textit {kernels} et de la synchronicité}{15}% 
+\contentsline {subsection}{\numberline {D.3}Gestion de plusieurs accélérateurs}{16}% 

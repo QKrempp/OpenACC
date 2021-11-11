@@ -1,0 +1,46 @@
+https://docs.computecanada.ca/wiki/OpenACC_Tutorial_-_Profiling/fr
+https://gcc.gnu.org/wiki/OpenACC
+Roofline_model
+
+Insérer aspects recherche
+	noter les réflexions
+	questions que l'on se pose
+	codes éléments finis...
+
+ne doit pas être une note technique -> annexe
+
+Section exemple -> sujet du rapport
+Question du rapport: Comment porter des codes sur GPU avec OpenACC
+
+4 sections: 
+	-Motivations et contexte général de l'étude
+		Utilisation générale des CPU, GPU compliqué. Comment compliqué sur GPU?
+	-Architecture GPU, fonctionnement OpenACC
+		Nécessaire pour comprendre les codes
+	-Etude de cas académiques
+		Exemples développés
+	-Codes elements finis
+
+Notes sur les "20% moins bonnes" -> bibtex
+
+Aller regarder documentation CUDA
+
+Comparaison temps de calcul GPU/CPU
+
+Etude des nombres de gangs, vecteurs, taille des vecteurs...
+
+/!\ --- Pourquoi 512g_4w_64v et 512g_16w_64v ne marchent pas? Alors que 512g_8w_64v et 512g_2w_64v fonctionnent --- /!\
+
+
+Coder openMP
+Essayer avec Kernels
+Vider les codes dans le rapport
+Faire les corrections annotées
+Refaire les courbes
+Faire le Readme
+
+
+1 paragraphe 1 idée
+1ere phrase = idée
+DGEMM -> 2sections
+
